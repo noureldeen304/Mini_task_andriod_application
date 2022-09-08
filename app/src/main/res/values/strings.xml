@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyTask</string>
+    <string name="message">message</string>
+    <string name="chat">chat</string>
+    <string name="profile">profile</string>
+    <string name="communication">communication</string>
+    <string name="share">share</string>
+    <string name="hello">hello</string>
+    <string name="create_an_account">create_an_account</string>
+    <string name="or">or</string>
+    <string name="create">create</string>
+    <string name="password">password</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chat_fragment">chat fragment</string>
+    <string name="send">send</string>
+    <string name="message_box">message box</string>
+    <string name="share_fragment">share_fragment</string>
+    <string name="send_fragment">send_fragment</string>
+    <string name="profile_fragment">profile_fragment</string>
+</resources>
